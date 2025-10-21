@@ -39,10 +39,12 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+<img width="1912" height="1078" alt="EXP02 A" src="https://github.com/user-attachments/assets/3de7e13d-ebee-4c41-8c65-c2f06f930cb6" />
 
 **Output:**
 
 **RTL**
+![EXP02A clock diagram](https://github.com/user-attachments/assets/b016c61e-39c6-4073-b38e-614c4afb40be)
 
 **Timing Diagram**
 
